@@ -1,0 +1,12 @@
+
+# customize the string for start and end tokens
+START_TOKEN: "@@@START@@@"
+END_TOKEN: "@@@END@@@"
+
+# customize the background color of the nodes
+COLOR_GENERAL : "#FFFFFF" #white
+COLOR_START : "#FFFF99" #yellow
+COLOR_END : "#CCFFFF" #blue
+
+NL : "\n"
+CHARACTER_WIDTH : 8

@@ -1,0 +1,5 @@
+A B C A
+A D C A
+D C A
+E F
+E G F
